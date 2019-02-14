@@ -49,7 +49,8 @@ function drawChart() {
     [myData[2].age, myData[2].weight],
     [myData[3].age, myData[3].weight],
     [myData[4].age, myData[4].weight],
-    [myData[5].age, myData[5].weight]
+    [myData[5].age, myData[5].weight],
+    [myData[5].age, myData[6].weight]
     // [ 8,      12],
     // [ 4,      5.5],
     // [ 11,     14],
